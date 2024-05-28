@@ -134,6 +134,7 @@
     <ClCompile Include="ElseMath.c" />
     <ClCompile Include="LogicMath.c" />
     <ClCompile Include="math.c" />
+    <ClCompile Include="Refeat.cpp" />
     <ClCompile Include="RelationMath.c" />
     <ClCompile Include="sizeof.c" />
     <ClCompile Include="Start.c" />

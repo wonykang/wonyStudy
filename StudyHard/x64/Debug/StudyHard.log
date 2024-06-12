@@ -1,2 +1,4 @@
-﻿  Refeat.cpp
-  StudyHard.vcxproj -> C:\Users\SSAFY\Desktop\study\wonyStudy\StudyHard\x64\Debug\StudyHard.exe
+﻿  FunctionTest.c
+C:\Users\강승원\Desktop\wonyStudy\StudyHard\FunctionTest.c(22,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Refeat.cpp
+  StudyHard.vcxproj -> C:\Users\강승원\Desktop\wonyStudy\StudyHard\x64\Debug\StudyHard.exe

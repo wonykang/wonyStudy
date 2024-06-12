@@ -132,6 +132,8 @@
     <ClCompile Include="Choose.c" />
     <ClCompile Include="const.c" />
     <ClCompile Include="ElseMath.c" />
+    <ClCompile Include="functionProgram.c" />
+    <ClCompile Include="FunctionTest.c" />
     <ClCompile Include="LogicMath.c" />
     <ClCompile Include="math.c" />
     <ClCompile Include="Refeat.cpp" />

@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="addReturn.c" />
     <ClCompile Include="AdminDefine.c" />
     <ClCompile Include="BitMath.c" />
+    <ClCompile Include="CallbyReference.c" />
     <ClCompile Include="Choose.c" />
     <ClCompile Include="const.c" />
     <ClCompile Include="ElseMath.c" />
+    <ClCompile Include="FuncReturn.c" />
     <ClCompile Include="functionProgram.c" />
     <ClCompile Include="FunctionTest.c" />
     <ClCompile Include="LogicMath.c" />
